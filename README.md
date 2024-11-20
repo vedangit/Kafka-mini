@@ -13,7 +13,15 @@ This project is a simplified implementation of a Kafka broker. It sets up a serv
 
 ---
 
+### Where did I learn all that?
+https://kafka.apache.org/protocol.html
+
+---
+
+
 ### Future Scope : 
 - concurrent clients
 - listing partitions
 - other apis (fetch etc)
+
+
